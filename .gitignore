@@ -6,3 +6,5 @@
 *.pyc
 
 logs/
+
+/ai/plant_health/Plant_Disease_Detection_Benchmark_models/Models
